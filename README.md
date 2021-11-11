@@ -1,0 +1,1 @@
+# some tests with private apps / new scopes and auth0
